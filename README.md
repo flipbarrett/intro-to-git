@@ -40,6 +40,8 @@ Commands:
 • git checkout -b <branch_name> -> Create a feature branch.
 • git branch -> shows the branches available.
 • git checkout -> Ability to swap between branches.
+• git merge <branch_name> -> merges 2 branches.
+• git branch -d <branch_name> -> deletes selected branch.
 
 
 Method: 
