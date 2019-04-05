@@ -18,5 +18,12 @@ Commands:
 • git log -> shows a brief history of all commits.
 • git reset HEAD <file> -> removes a file from the staging area. 
 
+Method: 
+•git ignore: 
+       - create hidden file .gitignore.
+       - include the names of the files you want to ignore within above file.
+       - git add .gitignore file.
+       - git commit -m"Hide files".
+
 
 note: adding a . before the name creates a hidden file.
