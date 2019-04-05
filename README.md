@@ -9,6 +9,13 @@ Are where all the files and directories and changes are living all the time.
 Files and directories that we explicitly add to the staging area
 (Where files live when they are added but not commited to the repository.)
 
+•Branches
+Pathways on projects. 
+ - Master branch: The main pathway of the project.
+ - Feature branches: Pathway that allows to work on new ideas on a project 
+   without affecting the master branch.
+ - Merging branches is also an option.
+
 Commands:
 • git status -> tells you what has been included in the tracking process of git (also gives hints ).
 • git add -> adds a file to the tracking process.
@@ -17,6 +24,9 @@ Commands:
 • git commit -m"Message here"-> Save your changes to the local repository.
 • git log -> shows a brief history of all commits.
 • git reset HEAD <file> -> removes a file from the staging area. 
+• git branch -> Lists the branches that exist in a repository.
+• git checkout -b <branch_name> -> Create a feature branch.
+
 
 Method: 
 •git ignore: 
