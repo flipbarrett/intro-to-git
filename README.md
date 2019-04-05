@@ -24,9 +24,14 @@ Commands:
 • git commit -m"Message here"-> Save your changes to the local repository.
 • git log -> shows a brief history of all commits.
 • git reset HEAD <file> -> removes a file from the staging area. 
+<<<<<<<<< saved version
 • git branch -> Lists the branches that exist in a repository.
 • git checkout -b <branch_name> -> Create a feature branch.
 
+=========
+• git branch -> shows the branches available.
+• git checkout -> Ability to swap between branches.
+>>>>>>>>> local version
 
 Method: 
 •git ignore: 
