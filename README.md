@@ -23,6 +23,7 @@ Commands:
 • git log -> shows a brief history of all commits.
 • git reset HEAD <file> -> removes a file from the staging area. 
 • git branch -> shows the branches available.
+• git checkout -> can use to swap between branches
 
 Method: 
 •git ignore: 
