@@ -16,7 +16,7 @@ Commands:
  - git add -A -> adds all files and folders (hidden and visible).
 • git commit -m"Message here"-> Save your changes to the local repository.
 • git log -> shows a brief history of all commits.
-• git remove -> 
+• git reset HEAD <file> -> removes a file from the staging area. 
 
 
 note: adding a . before the name creates a hidden file.
